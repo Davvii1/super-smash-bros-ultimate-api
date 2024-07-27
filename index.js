@@ -19,20 +19,21 @@ app.get("/", (request, response) => {
 app.get("/api/characters", (request, response) => {
   // const filePath = path.join(process.cwd(), "characters.json");
 
-  fs.readFileSync("/characters.json", "utf8", (err, data) => {
-    if (err) {
-      return response
-        .status(500)
-        .json({ error: "Failed to read characters data file" });
-    }
+  //fs.readFileSync("/characters.json", "utf8", (err, data) => {
+  //  if (err) {
+  //    return response
+  //      .status(500)
+  //      .json({ error: "Failed to read characters data file" });
+  //  }
 
-    try {
-      const jsonData = JSON.parse(data);
-      response.json(jsonData);
-    } catch (parseError) {
-      response
-        .status(500)
-        .json({ error: "Failed to parse characters JSON data" });
-    }
+  //  try {
+  //    const jsonData = JSON.parse(data);
+  //    response.json(jsonData);
+  //  } catch (parseError) {
+  //    response
+  //      .status(500)
+  //      .json({ error: "Failed to parse characters JSON data" });
+  //  }
+  response.send("Characters");
   });
 });
