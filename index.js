@@ -17,9 +17,9 @@ app.get("/", (request, response) => {
 });
 
 app.get("/api/characters", (request, response) => {
-  const filePath = path.join(process.cwd(), "characters.json");
+  // const filePath = path.join(process.cwd(), "characters.json");
 
-  fs.readFile(filePath, "utf8", (err, data) => {
+  fs.readFileSync("/characters.json", "utf8", (err, data) => {
     if (err) {
       return response
         .status(500)
