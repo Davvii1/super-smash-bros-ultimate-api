@@ -1,10 +1,6 @@
 import express from "express";
 import path from "path";
 import fs from "fs";
-import { fileURLToPath } from "url";
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
 
 const app = express();
 
@@ -20,8 +16,8 @@ app.get("/", (request, response) => {
   response.send("Super Smash Bros Ultimate API");
 });
 
-app.get("/characters", (request, response) => {
-  const filePath = path.join(__dirname, "characters.json");
+app.get("/api/characters", (request, response) => {
+  const filePath = path.join(process.cwd(), "characters.json");
 
   fs.readFile(filePath, "utf8", (err, data) => {
     if (err) {
@@ -41,4 +37,4 @@ app.get("/characters", (request, response) => {
   });
 });
 
-module.exports = app;
+export default app;
