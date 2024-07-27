@@ -1,0 +1,842 @@
+[
+  {
+    "name": "Piranha Plant",
+    "series": "mario",
+    "fighterNumber": "70",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/packun_flower.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/piranha_plant/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Joker",
+    "series": "persona",
+    "fighterNumber": "71",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/joker.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/joker/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Hero",
+    "series": "dragonquest",
+    "fighterNumber": "72",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dq_hero.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/hero/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Banjo & Kazooie",
+    "series": "banjo_and_kazooie",
+    "fighterNumber": "73",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/banjo_and_kazooie.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/banjo_&_kazooie/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Terry",
+    "series": "garou",
+    "fighterNumber": "74",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/terry.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/terry/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Byleth",
+    "series": "fireemblem",
+    "fighterNumber": "75",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/byleth.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/byleth/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Min Min",
+    "series": "arms",
+    "fighterNumber": "76",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/minmin.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/min_min/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Steve / Alex",
+    "series": "minecraft",
+    "fighterNumber": "77",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/steve.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/steve_/_alex/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Sephiroth",
+    "series": "finalfantasy",
+    "fighterNumber": "78",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sephiroth.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sephiroth/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Pyra / Mythra",
+    "series": "xenoblade",
+    "fighterNumber": "79-80",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/homura.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pyra_/_mythra/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Kazuya",
+    "series": "tekken",
+    "fighterNumber": "81",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/kazuya.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/kazuya/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Sora",
+    "series": "kingdomhearts",
+    "fighterNumber": "82",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sora.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sora/main.png"
+    },
+    "dlcCharacter": true
+  },
+  {
+    "name": "Mario",
+    "series": "mario",
+    "fighterNumber": "01",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mario.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mario/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Donkey Kong",
+    "series": "donkeykong",
+    "fighterNumber": "02",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/donkey_kong.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/donkey_kong/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Link",
+    "series": "zelda",
+    "fighterNumber": "03",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/link.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/link/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Samus",
+    "series": "metroid",
+    "fighterNumber": "04",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/samus.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/samus/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Dark Samus",
+    "series": "metroid",
+    "fighterNumber": "04ᵋ",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dark_samus.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dark_samus/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Yoshi",
+    "series": "yoshi",
+    "fighterNumber": "05",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/yoshi.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/yoshi/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Kirby",
+    "series": "kirby",
+    "fighterNumber": "06",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/kirby.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/kirby/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Fox",
+    "series": "starfox",
+    "fighterNumber": "07",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/fox.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/fox/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Pikachu",
+    "series": "pokemon",
+    "fighterNumber": "08",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pikachu.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pikachu/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Luigi",
+    "series": "mario",
+    "fighterNumber": "09",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/luigi.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/luigi/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Ness",
+    "series": "mother",
+    "fighterNumber": "10",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ness.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ness/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Captain Falcon",
+    "series": "f-zero",
+    "fighterNumber": "11",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/captain_falcon.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/captain_falcon/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Jigglypuff",
+    "series": "pokemon",
+    "fighterNumber": "12",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/jigglypuff.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/jigglypuff/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Peach",
+    "series": "mario",
+    "fighterNumber": "13",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/peach.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/peach/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Daisy",
+    "series": "mario",
+    "fighterNumber": "13ᵋ",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/daisy.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/daisy/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Bowser",
+    "series": "mario",
+    "fighterNumber": "14",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bowser.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bowser/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Ice Climbers",
+    "series": "iceclimber",
+    "fighterNumber": "15",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ice_climbers.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ice_climbers/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Sheik",
+    "series": "zelda",
+    "fighterNumber": "16",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sheik.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sheik/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Zelda",
+    "series": "zelda",
+    "fighterNumber": "17",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/zelda.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/zelda/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Dr. Mario",
+    "series": "mario",
+    "fighterNumber": "18",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dr_mario.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dr._mario/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Pichu",
+    "series": "pokemon",
+    "fighterNumber": "19",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pichu.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pichu/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Falco",
+    "series": "starfox",
+    "fighterNumber": "20",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/falco.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/falco/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Marth",
+    "series": "fireemblem",
+    "fighterNumber": "21",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/marth.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/marth/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Lucina",
+    "series": "fireemblem",
+    "fighterNumber": "21ᵋ",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucina.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucina/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Young Link",
+    "series": "zelda",
+    "fighterNumber": "22",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/young_link.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/young_link/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Ganondorf",
+    "series": "zelda",
+    "fighterNumber": "23",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ganondorf.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ganondorf/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Mewtwo",
+    "series": "pokemon",
+    "fighterNumber": "24",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mewtwo.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mewtwo/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Roy",
+    "series": "fireemblem",
+    "fighterNumber": "25",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/roy.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/roy/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Chrom",
+    "series": "fireemblem",
+    "fighterNumber": "25ᵋ",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/chrom.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/chrom/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Mr. Game & Watch",
+    "series": "gamewatch",
+    "fighterNumber": "26",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mr_game_and_watch.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mr._game_&_watch/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Meta Knight",
+    "series": "kirby",
+    "fighterNumber": "27",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/meta_knight.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/meta_knight/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Pit",
+    "series": "palutena",
+    "fighterNumber": "28",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pit.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pit/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Dark Pit",
+    "series": "palutena",
+    "fighterNumber": "28ᵋ",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dark_pit.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dark_pit/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Zero Suit Samus",
+    "series": "metroid",
+    "fighterNumber": "29",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/zero_suit_samus.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/zero_suit_samus/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Wario",
+    "series": "wario",
+    "fighterNumber": "30",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wario.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wario/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Snake",
+    "series": "metalgear",
+    "fighterNumber": "31",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/snake.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/snake/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Ike",
+    "series": "fireemblem",
+    "fighterNumber": "32",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ike.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ike/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Pokémon Trainer",
+    "series": "pokemon",
+    "fighterNumber": "33-35",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pokemon_trainer.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pokémon_trainer/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Diddy Kong",
+    "series": "donkeykong",
+    "fighterNumber": "36",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/diddy_kong.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/diddy_kong/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Lucas",
+    "series": "mother",
+    "fighterNumber": "37",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucas.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucas/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Sonic",
+    "series": "sonic",
+    "fighterNumber": "38",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sonic.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sonic/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "King Dedede",
+    "series": "kirby",
+    "fighterNumber": "39",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/king_dedede.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/king_dedede/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Olimar",
+    "series": "pikmin",
+    "fighterNumber": "40",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/olimar.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/olimar/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Lucario",
+    "series": "pokemon",
+    "fighterNumber": "41",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucario.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucario/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "R.o.b.",
+    "series": "famicomrobot",
+    "fighterNumber": "42",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/rob.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/r.o.b./main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Toon Link",
+    "series": "zelda",
+    "fighterNumber": "43",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/toon_link.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/toon_link/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Wolf",
+    "series": "starfox",
+    "fighterNumber": "44",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wolf.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wolf/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Villager",
+    "series": "doubutsu",
+    "fighterNumber": "45",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/villager.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/villager/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Mega Man",
+    "series": "rockman",
+    "fighterNumber": "46",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mega_man.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mega_man/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Wii Fit Trainer",
+    "series": "wii_fit",
+    "fighterNumber": "47",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wii_fit_trainer.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wii_fit_trainer/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Rosalina & Luma",
+    "series": "mario",
+    "fighterNumber": "48",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/rosalina_and_luma.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/rosalina_&_luma/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Little Mac",
+    "series": "punch_out",
+    "fighterNumber": "49",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/little_mac.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/little_mac/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Greninja",
+    "series": "pokemon",
+    "fighterNumber": "50",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/greninja.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/greninja/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Mii Fighter",
+    "series": "mii",
+    "fighterNumber": "51-53",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mii_fighter.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mii_fighter/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Palutena",
+    "series": "palutena",
+    "fighterNumber": "54",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/palutena.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/palutena/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Pac-man",
+    "series": "pacman",
+    "fighterNumber": "55",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pac_man.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pac-man/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Robin",
+    "series": "fireemblem",
+    "fighterNumber": "56",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/robin.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/robin/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Shulk",
+    "series": "xenoblade",
+    "fighterNumber": "57",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/shulk.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/shulk/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Bowser Jr.",
+    "series": "mario",
+    "fighterNumber": "58",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bowser_jr.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bowser_jr./main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Duck Hunt Duo",
+    "series": "duckhunt",
+    "fighterNumber": "59",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/duck_hunt.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/duck_hunt_duo/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Ryu",
+    "series": "streetfighter",
+    "fighterNumber": "60",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ryu.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ryu/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Ken",
+    "series": "streetfighter",
+    "fighterNumber": "60ᵋ",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ken.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ken/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Cloud",
+    "series": "finalfantasy",
+    "fighterNumber": "61",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/cloud.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/cloud/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Corrin",
+    "series": "fireemblem",
+    "fighterNumber": "62",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/corrin.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/corrin/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Bayonetta",
+    "series": "bayonetta",
+    "fighterNumber": "63",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bayonetta.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bayonetta/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Inkling",
+    "series": "splatoon",
+    "fighterNumber": "64",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/inkling.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/inkling/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Ridley",
+    "series": "metroid",
+    "fighterNumber": "65",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ridley.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ridley/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Simon",
+    "series": "dracula",
+    "fighterNumber": "66",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/simon.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/simon/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Richter",
+    "series": "dracula",
+    "fighterNumber": "66ᵋ",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/richter.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/richter/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "King K. Rool",
+    "series": "donkeykong",
+    "fighterNumber": "67",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/king_k_rool.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/king_k._rool/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Isabelle",
+    "series": "doubutsu",
+    "fighterNumber": "68",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/shizue.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/isabelle/main.png"
+    },
+    "dlcCharacter": false
+  },
+  {
+    "name": "Incineroar",
+    "series": "pokemon",
+    "fighterNumber": "69",
+    "images": {
+      "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/gaogaen.png",
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/incineroar/main.png"
+    },
+    "dlcCharacter": false
+  }
+]
