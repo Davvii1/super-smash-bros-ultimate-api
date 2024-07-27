@@ -13,7 +13,5 @@
   "dependencies": {
     "express": "^4.19.2",
     "puppeteer": "^19.11.1"
-  },
-  "type": "module",
-  "types": "module"
+  }
 }
