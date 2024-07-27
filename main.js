@@ -40,3 +40,5 @@ app.get("/characters", (request, response) => {
     }
   });
 });
+
+module.exports = app;
