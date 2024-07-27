@@ -2,7 +2,7 @@ import express from "express";
 import path from "path";
 import fs from "fs";
 
-export const app = express();
+const app = express();
 
 app.use(express.json());
 
@@ -37,3 +37,5 @@ app.get("/api/characters", (request, response) => {
   response.send("Characters");
   });
 });
+
+export default app
