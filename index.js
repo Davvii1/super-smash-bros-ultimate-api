@@ -1,6 +1,6 @@
 import express from "express";
 import path from "path";
-import fs from "fs";
+import fs from "fs/promises";
 
 const app = express();
 
@@ -16,7 +16,16 @@ app.get("/", (request, response) => {
   response.send("Super Smash Bros Ultimate API");
 });
 
-app.get("/api/characters", (request, response) => {
+app.get("/api/characters", async (request, response) => {
+   try {
+    const filePath = path.join(process.cwd(), "characters.json");
+    const data = await fs.readFile(filePath, "utf8");
+    const jsonData = JSON.parse(data);
+    res.json(jsonData);
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: "Failed to read or parse characters data file" });
+  }
   // const filePath = path.join(process.cwd(), "characters.json");
 
   //fs.readFileSync("/characters.json", "utf8", (err, data) => {
