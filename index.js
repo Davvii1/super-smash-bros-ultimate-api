@@ -17,15 +17,15 @@ app.get("/", (request, response) => {
 });
 
 app.get("/api/characters", async (request, response) => {
-  // try {
-  // const filePath = path.join(process.cwd(), "characters.json");
-  // const data = await fs.readFile(filePath, "utf8");
-  // const jsonData = JSON.parse(data);
-  // res.json(jsonData);
-  // } catch (err) {
-  //  console.error(err);
-  //  res.status(500).json({ error: "Failed to read or parse characters data file" });
-  // }
+  try {
+   const filePath = path.join(process.cwd(), "characters.json");
+   const data = await fs.readFile(filePath, "utf8");
+   const jsonData = JSON.parse(data);
+   response.json(jsonData);
+  } catch (err) {
+    console.error(err);
+    response.status(500).json({ error: "Failed to read or parse characters data file" });
+  }
   // const filePath = path.join(process.cwd(), "characters.json");
 
   //fs.readFileSync("/characters.json", "utf8", (err, data) => {
@@ -43,7 +43,6 @@ app.get("/api/characters", async (request, response) => {
   //      .status(500)
   //      .json({ error: "Failed to parse characters JSON data" });
   //  }
-  response.send("Characters");
 });
 
 export default app
