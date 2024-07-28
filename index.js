@@ -4,7 +4,7 @@ import fs from "fs/promises";
 
 const app = express();
 
-// app.use(express.json());
+app.use(express.json());
 
 const PORT = process.env.PORT || 3000;
 
@@ -44,7 +44,6 @@ app.get("/api/characters", async (request, response) => {
   //      .json({ error: "Failed to parse characters JSON data" });
   //  }
   response.send("Characters");
-  });
 });
 
 export default app
