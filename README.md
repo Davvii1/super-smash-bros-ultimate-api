@@ -1,5 +1,9 @@
 # Super Smash Bros. Ultimate API <!-- omit in toc -->
 
+<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+   <img src="./assets/SSBU-Logo.webp" alt="SSBU Logo" width="200" />
+</div>
+
 Unofficial API for Super Smash Bros. Ultimate Fighters, implementing web scrapping from [Fighters | Super Smash Bros. Ultimate - Official Site](https://www.smashbros.com/en_GB/fighter/index.html).
 
 This project was developed with Javascript, using Puppeteer and Express.js, currently hosted [here](https://super-smash-bros-ultimate-api.onrender.com) with Render.
@@ -44,5 +48,5 @@ Currently GET requests are permitted to get ALL of the fighters and get fighters
 
 | Request Type | Endpoint | Description |
 |---------------| --------------- | --------------- |
-| GET | /characters | GET all fighters |
-| GET | /id | GET specific fighter by their id(fighterNumber)
+| GET | /api/characters | GET all fighters |
+| GET | /api/characters/[id] | GET specific fighter by their id(fighterNumber)
