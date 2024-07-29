@@ -11,6 +11,9 @@ This project was developed with Javascript, using Puppeteer and Express.js, curr
 > [!NOTE]
 > Pull request are welcome to help the API grow.
 
+> [!WARNING]
+> Because of the application being hosted in Render, sometimes request may take 50 seconds or more to be completed, if you don't want this, run the project locally. 
+
 ## Table of content <!-- omit in toc -->
 - [Using the API](#using-the-api)
 - [Run project locally](#run-project-locally)
