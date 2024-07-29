@@ -1,6 +1,6 @@
 # Super Smash Bros. Ultimate API <!-- omit in toc -->
 
-<div style="display: flex; justify-content: center; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; margin-bottom: 20px; width: 100%;">
    <img src="./assets/SSBU-Logo.webp" alt="SSBU Logo" width="200" />
 </div>
 
