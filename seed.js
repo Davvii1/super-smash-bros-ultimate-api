@@ -23,10 +23,12 @@ const getCharacters = async () => {
         )
         .join(" ");
 
-      const series = item
-        .querySelector("use")
-        .getAttributeNS("http://www.w3.org/1999/xlink", "href")
-        .split("m_")[1];
+      const series = {
+        name: item
+          .querySelector("use")
+          .getAttributeNS("http://www.w3.org/1999/xlink", "href")
+          .split("m_")[1],
+      };
 
       const fighterNumber = item
         .querySelector(".fighter-list__num-txt")
@@ -39,10 +41,6 @@ const getCharacters = async () => {
           .style.backgroundImage.split("(")[1]
           .split(")")[0]
           .replaceAll('"', "")}`,
-        fullImage: `https://www.smashbros.com/assets_v2/img/fighter/${name
-          .split(" ")
-          .join("_")
-          .toLowerCase()}/main.png`,
       };
 
       const dlcCharacter = item.classList.contains("fighter-list__item--dlc");
@@ -56,6 +54,48 @@ const getCharacters = async () => {
       };
     });
   });
+
+  const getFullImage = async (character) => {
+    const detailPage = await browser.newPage();
+    await detailPage.goto(
+      `https://www.smashbros.com/en_GB/fighter/${character.fighterNumber.replaceAll(
+        "ᵋ",
+        "e"
+      )}.html`,
+      {
+        waitUntil: "load",
+      }
+    );
+
+    const seriesImage = await detailPage.$eval(
+      ".page-header-bar__ico",
+      (container) => {
+        return `https://www.smashbros.com${container
+          .querySelector("i")
+          .style.backgroundImage.split("(")[1]
+          .split(")")[0]
+          .replaceAll('"', "")}`;
+      }
+    );
+
+    const fullImage = await detailPage.$eval(
+      ".swiper-slide-active",
+      (container) => {
+        return container.querySelector("img").src;
+      }
+    );
+
+    character.series.image = seriesImage;
+
+    character.images.fullImage = fullImage;
+
+    await detailPage.close();
+  };
+
+  for (const character of characters) {
+    console.log(`Getting ${character.name} information...`);
+    await getFullImage(character);
+  }
 
   const charactersJSON = JSON.stringify(characters, null, 2);
 

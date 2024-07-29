@@ -18,31 +18,36 @@ app.get("/", (request, response) => {
 
 app.get("/api/characters", async (request, response) => {
   try {
-   const filePath = path.join(process.cwd(), "characters.json");
-   const data = await fs.readFile(filePath, "utf8");
-   const jsonData = JSON.parse(data);
-   response.json(jsonData);
+    const filePath = path.join(process.cwd(), "characters.json");
+    const data = await fs.readFile(filePath, "utf8");
+    const jsonData = JSON.parse(data);
+    response.json(jsonData);
   } catch (err) {
     console.error(err);
-    response.status(500).json({ error: "Failed to read or parse characters data file" });
+    response
+      .status(500)
+      .json({ error: "Failed to read or parse characters data file" });
   }
-  // const filePath = path.join(process.cwd(), "characters.json");
-
-  //fs.readFileSync("/characters.json", "utf8", (err, data) => {
-  //  if (err) {
-  //    return response
-  //      .status(500)
-  //      .json({ error: "Failed to read characters data file" });
-  //  }
-
-  //  try {
-  //    const jsonData = JSON.parse(data);
-  //    response.json(jsonData);
-  //  } catch (parseError) {
-  //    response
-  //      .status(500)
-  //      .json({ error: "Failed to parse characters JSON data" });
-  //  }
 });
 
-export default app
+app.get("/api/characters/:id", async (request, response) => {
+  try {
+    const filePath = path.join(process.cwd(), "characters.json");
+    const data = await fs.readFile(filePath, "utf8");
+    const jsonData = JSON.parse(data);
+
+    const character = jsonData.filter(
+      (character) =>
+        character.fighterNumber.replaceAll("ᵋ", "e") === request.params.id
+    );
+
+    response.json(character[0]);
+  } catch (err) {
+    console.error(err);
+    response
+      .status(500)
+      .json({ error: "Failed to read or parse characters data file" });
+  }
+});
+
+export default app;
