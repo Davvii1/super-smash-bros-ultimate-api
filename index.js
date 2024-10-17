@@ -16,6 +16,8 @@ app.get("/", (request, response) => {
   response.send("Super Smash Bros Ultimate API");
 });
 
+
+// Ruta para obtener todos los personajes
 app.get("/api/characters", async (request, response) => {
   try {
     const filePath = path.join(process.cwd(), "characters.json");
@@ -30,6 +32,8 @@ app.get("/api/characters", async (request, response) => {
   }
 });
 
+
+// Ruta para buscar por número de luchador
 app.get("/api/characters/:id", async (request, response) => {
   try {
     const filePath = path.join(process.cwd(), "characters.json");
@@ -47,6 +51,27 @@ app.get("/api/characters/:id", async (request, response) => {
     response
       .status(500)
       .json({ error: "Failed to read or parse characters data file" });
+  }
+});
+
+// Ruta para buscar por serie
+app.get("/api/characters/series/:seriesName", async (request, response) => {
+  const seriesName = request.params.seriesName.toLowerCase(); // Convertimos a minúsculas para comparación
+  try {
+    const filePath = path.join(process.cwd(), "characters.json");
+    const data = await fs.readFile(filePath, "utf8");
+    const jsonData = JSON.parse(data);
+
+    const charactersInSeries = jsonData.filter(c => c.series.name.toLowerCase() === seriesName);
+
+    if (charactersInSeries.length > 0) {
+      response.json(charactersInSeries);
+    } else {
+      response.status(404).json({ error: "No characters found in this series" });
+    }
+  } catch (err) {
+    console.error(err);
+    response.status(500).json({ error: "Failed to read or parse characters data file" });
   }
 });
 
