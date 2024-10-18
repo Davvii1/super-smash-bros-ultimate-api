@@ -75,4 +75,26 @@ app.get("/api/characters/series/:seriesName", async (request, response) => {
   }
 });
 
+// Ruta para buscar personaje por nombre
+app.get("/api/characters/name/:name", async (request, response) => {
+  const characterName = request.params.name.toLowerCase(); // Convertimos a minúsculas para comparación
+  try {
+    const filePath = path.join(process.cwd(), "characters.json");
+    const data = await fs.readFile(filePath, "utf8");
+    const jsonData = JSON.parse(data);
+
+    const character = jsonData.find(c => c.name.toLowerCase() === characterName);
+
+    if (character) {
+      response.json(character);
+    } else {
+      response.status(404).json({ error: "Character not found" });
+    }
+  } catch (err) {
+    console.error(err);
+    response.status(500).json({ error: "Failed to read or parse characters data file" });
+  }
+});
+
+
 export default app;
