@@ -8,7 +8,9 @@
     "fighterNumber": "70",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/packun_flower.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/piranha_plant/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/piranha_plant/main.png",
+       "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/packun_flower.png"
+    },
     },
     "dlcCharacter": true,
     "description": "Piranha Plant is a unique and unexpected fighter in Super Smash Bros. Ultimate. Its moveset includes a variety of plant-based attacks, such as spitting poison, summoning spiky balls, and extending its neck for biting attacks. Piranha Plant's Final Smash involves summoning Petey Piranha, who captures and damages opponents in cages."
@@ -22,7 +24,9 @@
     "fighterNumber": "71",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/joker.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/joker/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/joker/main.png",
+       "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/joker.png"
+    },
     },
     "dlcCharacter": true,
     "description": "Joker from Persona 5 joins Super Smash Bros. Ultimate with a stylish and agile moveset. He uses a combination of knife attacks and his gun, and can summon his Persona, Arsene, to enhance his abilities. Joker's Final Smash, All-Out Attack, calls upon the Phantom Thieves for a powerful finishing move."
@@ -36,7 +40,9 @@
     "fighterNumber": "72",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dq_hero.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dq_hero/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dq_hero/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/dq_hero.png",
+
     },
     "dlcCharacter": true,
     "description": "Hero from the Dragon Quest series brings a versatile and magic-heavy moveset to Super Smash Bros. Ultimate. He wields a sword and shield, and can cast a variety of spells from his Command Selection menu. Hero's Final Smash, Gigaslash, unleashes a powerful sword strike with the help of other legendary heroes from the series."
@@ -50,7 +56,8 @@
     "fighterNumber": "73",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/banjo_and_kazooie.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/banjo_and_kazooie/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/banjo_and_kazooie/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/banjo_and_kazooie.png"
     },
     "dlcCharacter": true,
     "description": "Banjo & Kazooie are a duo fighter in Super Smash Bros. Ultimate, combining Banjo's strength with Kazooie's agility and versatility. Their moveset includes a mix of physical attacks and projectiles, utilizing Kazooie's abilities. Their Final Smash, The Mighty Jinjonator, summons a powerful Jinjo statue to deal massive damage."
@@ -64,7 +71,8 @@
     "fighterNumber": "74",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/terry.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/terry/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/terry/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/terry.png"
     },
     "dlcCharacter": true,
     "description": "Terry Bogard from the Fatal Fury series brings a classic fighting game style to Super Smash Bros. Ultimate. His moveset includes iconic special moves like Power Wave, Burn Knuckle, and Rising Tackle. Terry's Final Smash, Triple Wolf, combines his power and speed in a devastating series of attacks."
@@ -78,7 +86,8 @@
     "fighterNumber": "75",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/byleth.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/byleth/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/byleth/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/byleth.png"
     },
     "dlcCharacter": true,
     "description": "Byleth from Fire Emblem: Three Houses wields the powerful Sword of the Creator in Super Smash Bros. Ultimate. Their moveset includes a variety of weapons from the game, such as the bow, lance, and axe, each offering different attack options. Byleth's Final Smash, Progenitor God Ruptured Heaven, delivers a powerful blow with the help of Sothis."
@@ -92,7 +101,8 @@
     "fighterNumber": "76",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/minmin.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/minmin/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/minmin/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/minmin.png"
     },
     "dlcCharacter": true,
     "description": "Min Min from ARMS joins Super Smash Bros. Ultimate with her extendable arms, offering unique long-range attacks. Her moveset allows for various arm configurations, including the Dragon and Ramram, to deliver powerful punches. Min Min's Final Smash, ARMS Rush, unleashes a flurry of punches from multiple ARMS fighters."
@@ -106,7 +116,8 @@
     "fighterNumber": "77",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/steve.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/steve/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/steve/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/steve.png"
     },
     "dlcCharacter": true,
     "description": "Steve and Alex from Minecraft bring their crafting abilities to Super Smash Bros. Ultimate. Their moveset includes mining for resources, crafting tools, and building blocks to create obstacles and traps. Their Final Smash, House of Boom, traps opponents in a house filled with explosives for a massive detonation."
@@ -120,7 +131,8 @@
     "fighterNumber": "78",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sephiroth.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sephiroth/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sephiroth/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/sephiroth.png"
     },
     "dlcCharacter": true,
     "description": "Sephiroth from Final Fantasy VII joins Super Smash Bros. Ultimate with his long-reaching Masamune sword. His moveset includes powerful slashes and dark magic attacks. Sephiroth's Final Smash, Supernova, recreates his iconic attack from Final Fantasy VII, dealing massive damage and causing various status effects."
@@ -134,7 +146,8 @@
     "fighterNumber": "79-80",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/homura.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pyra/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pyra/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/homura.png"
     },
     "dlcCharacter": true,
     "description": "Pyra and Mythra from Xenoblade Chronicles 2 are a dual fighter in Super Smash Bros. Ultimate, able to switch between forms. Pyra offers powerful fire-based attacks, while Mythra provides swift and agile light-based attacks. Their Final Smash, Sacred Arrow, combines their powers for a devastating energy blast."
@@ -148,7 +161,8 @@
     "fighterNumber": "81",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/kazuya.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/kazuya/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/kazuya/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/kazuya.png"
     },
     "dlcCharacter": true,
     "description": "Kazuya Mishima from the Tekken series brings his brutal fighting style to Super Smash Bros. Ultimate. His moveset includes a mix of powerful punches, kicks, and grabs, along with his Devil transformation. Kazuya's Final Smash, Final Blaster, unleashes a massive laser beam from his Devil form."
@@ -162,7 +176,8 @@
     "fighterNumber": "82",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sora.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sora/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sora/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/sora.png"
     },
     "dlcCharacter": true,
     "description": "Sora from Kingdom Hearts joins Super Smash Bros. Ultimate with his iconic Keyblade. His moveset includes a variety of combo attacks, magic spells, and aerial maneuvers. Sora's Final Smash, Sealing the Keyhole, involves a cinematic sequence where he locks away his opponents with the power of the Keyblade."
@@ -176,7 +191,8 @@
     "fighterNumber": "01",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mario.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mario/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mario/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/mario.png"
     },
     "dlcCharacter": false,
     "description": "Mario is a returning fighter in Super Smash Bros. Ultimate. His moveset appears to be mostly unchanged from the previous games, but Cappy was teased as part of his new arsenal in the reveal trailer. His versatile set of moves, including the Fireball, Cape, and Super Jump Punch, make him a well-rounded fighter suitable for players of all skill levels.",
@@ -196,7 +212,8 @@
     "fighterNumber": "02",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/donkey_kong.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/donkey_kong/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/donkey_kong/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/donkey_kong.png"
     },
     "dlcCharacter": false,
     "description": "Donkey Kong is a returning fighter in Super Smash Bros. Ultimate. His moveset remains largely consistent with his previous appearances, showcasing his powerful and heavy-hitting attacks. In addition to his classic moves, Donkey Kong now features updated animations and slight tweaks to his abilities, enhancing his overall performance.",
