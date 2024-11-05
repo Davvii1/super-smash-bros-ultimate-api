@@ -629,7 +629,8 @@
     "fighterNumber": "21",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/marth.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/marth/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/marth/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/marth.png"
     },
     "dlcCharacter": false,
     "description": "Marth is a returning fighter in Super Smash Bros. Ultimate. Known for his precision and speed, Marth uses his sword to deliver quick and powerful strikes. His moveset includes the Shield Breaker and Dancing Blade, with a focus on spacing and tipper hits. Marth's Final Smash, Critical Hit, unleashes a devastating sword strike.",
@@ -648,7 +649,8 @@
     "fighterNumber": "21ᵋ",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucina.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucina/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucina/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/lucina.png"
     },
     "dlcCharacter": false,
     "description": "Lucina is a returning fighter in Super Smash Bros. Ultimate. As an echo fighter of Marth, Lucina shares many of his moves but without the emphasis on tipper hits. Her balanced swordplay and agility make her a versatile and accessible fighter. Lucina's Final Smash, Critical Hit, mirrors Marth's devastating sword strike.",
@@ -665,7 +667,8 @@
     "fighterNumber": "22",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/young_link.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/young_link/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/young_link/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/young_link.png"
     },
     "dlcCharacter": false,
     "description": "Young Link is a returning fighter in Super Smash Bros. Ultimate. With a moveset reminiscent of his appearance in Super Smash Bros. Melee, Young Link utilizes a variety of weapons, including bombs, arrows, and the boomerang. His agility and versatility make him a strong contender. His Final Smash, Triforce Slash, delivers a powerful series of sword strikes.",
@@ -677,7 +680,8 @@
     "name": "Ganondorf",
     "series": {
       "name": "zelda",
-      "image": "https://www.smashbros.com/assets_v2/img/fighter/ganondorf/mark.svg"
+      "image": "https://www.smashbros.com/assets_v2/img/fighter/ganondorf/mark.svg",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/ganondorf.png"
     },
     "fighterNumber": "23",
     "images": {
@@ -701,7 +705,8 @@
     "fighterNumber": "24",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mewtwo.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mewtwo/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mewtwo/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/mewtwo.png"
     },
     "dlcCharacter": false,
     "description": "Mewtwo is a returning fighter in Super Smash Bros. Ultimate. Known for its psychic abilities, Mewtwo uses a variety of telekinetic and energy-based attacks, such as Shadow Ball and Confusion. Mewtwo's light weight and powerful attacks make it a unique and strategic fighter. Its Final Smash, Psystrike, unleashes a powerful psychic explosion.",
@@ -719,7 +724,8 @@
     "fighterNumber": "25",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/roy.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/roy/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/roy/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/roy.png"
     },
     "dlcCharacter": false,
     "description": "Roy is a returning fighter in Super Smash Bros. Ultimate. He wields the Sword of Seals, delivering fiery and powerful attacks. Roy's moveset includes the Double-Edge Dance and Blazer, with a focus on close-range combat. His Final Smash, Critical Hit, unleashes a powerful sword strike that engulfs opponents in flames.",
@@ -737,7 +743,8 @@
     "fighterNumber": "25ᵋ",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/chrom.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/chrom/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/chrom/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/chrom.png"
     },
     "dlcCharacter": false,
     "description": "Chrom is a returning fighter in Super Smash Bros. Ultimate. As an echo fighter of Roy, Chrom shares many of his moves but with slight differences in properties. Chrom's balanced swordplay and powerful attacks make him a versatile fighter. His Final Smash, Awakening Aether, combines a series of sword strikes with a powerful finishing blow."
@@ -751,7 +758,8 @@
     "fighterNumber": "26",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mr_game_and_watch.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mr_game_and_watch/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mr_game_and_watch/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/mr_game_and_watch.png"
     },
     "dlcCharacter": false,
     "description": "Mr. Game & Watch is a returning fighter in Super Smash Bros. Ultimate. His moveset is based on various classic Game & Watch games, with a unique 2D animation style. Mr. Game & Watch's quirky and unpredictable moves make him a tricky opponent. His Final Smash, Octopus, transforms him into a giant octopus that grabs and damages opponents.",
@@ -770,7 +778,8 @@
     "fighterNumber": "27",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/meta_knight.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/meta_knight/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/meta_knight/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/meta_knight.png"
     },
     "dlcCharacter": false,
     "description": "Meta Knight is a returning fighter in Super Smash Bros. Ultimate. Known for his quick and powerful swordplay, Meta Knight uses a combination of aerial attacks and rapid strikes. His moveset includes the Mach Tornado and Shuttle Loop. Meta Knight's Final Smash, Darkness Illusion, delivers a flurry of rapid slashes in a cinematic sequence.",
@@ -788,7 +797,8 @@
     "fighterNumber": "28",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pit.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pit/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pit/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/pit.png"
     },
     "dlcCharacter": false,
     "description": "Pit is a returning fighter in Super Smash Bros. Ultimate. He uses a variety of weapons and abilities from Kid Icarus, including the Palutena Bow and Guardian Orbitars. Pit's balanced moveset makes him versatile in both melee and ranged combat. His Final Smash, Lightning Chariot, summons a chariot for a powerful charge attack.",
@@ -806,7 +816,8 @@
     "fighterNumber": "28ᵋ",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dark_pit.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dark_pit/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dark_pit/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/dark_pit.png"
     },
     "dlcCharacter": false,
     "description": "Dark Pit is a returning fighter in Super Smash Bros. Ultimate. As an echo fighter of Pit, Dark Pit shares many of his moves but with slight differences in properties. Dark Pit's moveset includes the Silver Bow and Electroshock Arm, providing a mix of ranged and melee attacks. His Final Smash, Dark Pit Staff, fires a powerful, long-range energy beam.",
@@ -823,7 +834,8 @@
     "fighterNumber": "29",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/zero_suit_samus.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/zero_suit_samus/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/zero_suit_samus/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/zero_suit_samus.png"
     },
     "dlcCharacter": false,
     "description": "Zero Suit Samus is a returning fighter in Super Smash Bros. Ultimate. Known for her speed and agility, she uses a variety of high-tech weapons and acrobatic moves. Zero Suit Samus's moveset includes the Paralyzer and Flip Jump, making her a fast and versatile fighter. Her Final Smash, Zero Laser, delivers a powerful and precise laser beam.",
@@ -841,7 +853,8 @@
     "fighterNumber": "30",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wario.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wario/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wario/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/wario.png"
     },
     "dlcCharacter": false,
     "description": "Wario is a returning fighter in Super Smash Bros. Ultimate. His moveset is based on his WarioWare games, featuring a mix of physical and comical attacks. Wario's unique moves include the Wario Waft and Chomp. His Final Smash, Wario-Man, transforms him into a super-powered version of himself, enhancing all of his attacks.",
@@ -859,7 +872,8 @@
     "fighterNumber": "31",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/snake.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/snake/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/snake/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/snake.png"
     },
     "dlcCharacter": false,
     "description": "Snake is a returning fighter in Super Smash Bros. Ultimate. Known for his tactical playstyle, Snake uses a variety of explosives and gadgets to control the battlefield. His moveset includes grenades, C4, and a Nikita missile. Snake's Final Smash, Covering Fire, calls in a missile strike from his support team.",
@@ -876,7 +890,8 @@
     "fighterNumber": "32",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ike.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ike/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ike/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/ike.png"
     },
     "dlcCharacter": false,
     "description": "Ike is a returning fighter in Super Smash Bros. Ultimate. He wields the powerful sword Ragnell, delivering heavy-hitting attacks with great range. Ike's moveset includes Eruption and Aether, focusing on raw power. His Final Smash, Great Aether, performs a series of powerful sword strikes followed by a massive explosion.",
@@ -894,7 +909,8 @@
     "fighterNumber": "33-35",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pokemon_trainer.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pokemon_trainer/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pokemon_trainer/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/pokemon_trainer.png"
     },
     "dlcCharacter": false,
     "description": "Pokémon Trainer is a returning fighter in Super Smash Bros. Ultimate. The trainer commands three Pokémon: Squirtle, Ivysaur, and Charizard, each with unique movesets and abilities. Players can switch between them mid-battle to adapt to different situations. The Pokémon Trainer's Final Smash, Triple Finish, combines the powers of all three Pokémon in a powerful attack.",
@@ -911,7 +927,8 @@
     "fighterNumber": "36",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/diddy_kong.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/diddy_kong/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/diddy_kong/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/diddy_kong.png"
     },
     "dlcCharacter": false,
     "description": "Diddy Kong is a returning fighter in Super Smash Bros. Ultimate. Known for his agility and speed, Diddy Kong uses a variety of moves inspired by the Donkey Kong series, including the Peanut Popgun and Rocketbarrel Boost. His Final Smash, Hyper Rocketbarrel, has him flying around the stage at high speed, dealing damage to opponents.",
@@ -929,7 +946,8 @@
     "fighterNumber": "37",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucas.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucas/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucas/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/lucas.png"
     },
     "dlcCharacter": false,
     "description": "Lucas is a returning fighter in Super Smash Bros. Ultimate. Similar to Ness, Lucas uses a variety of PSI powers, such as PK Freeze, PK Fire, and PK Thunder. Lucas's moveset focuses on versatility and ranged attacks. His Final Smash, PK Starstorm, rains down powerful stars to deal massive damage to his opponents.",
@@ -947,7 +965,8 @@
     "fighterNumber": "38",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sonic.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sonic/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sonic/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/sonic.png"
     },
     "dlcCharacter": false,
     "description": "Sonic is a returning fighter in Super Smash Bros. Ultimate. Known for his incredible speed, Sonic uses a variety of quick attacks and spin dashes to overwhelm opponents. His moveset includes the Homing Attack and Spin Dash, focusing on agility and hit-and-run tactics. Sonic's Final Smash, Super Sonic, transforms him into his super form, allowing him to fly around the stage at high speed and deal damage.",
@@ -965,7 +984,8 @@
     "fighterNumber": "39",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/king_dedede.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/king_dedede/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/king_dedede/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/king_dedede.png"
     },
     "dlcCharacter": false,
     "description": "King Dedede is a returning fighter in Super Smash Bros. Ultimate. He wields a massive hammer and uses a variety of powerful attacks, including the Gordo Throw and Jet Hammer. King Dedede's heavy weight and strong attacks make him a formidable opponent. His Final Smash, Dede-Rush, traps opponents in a cage and delivers a flurry of hammer strikes.",
@@ -983,7 +1003,8 @@
     "fighterNumber": "40",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/olimar.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/olimar/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/olimar/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/olimar.png"
     },
     "dlcCharacter": false,
     "description": "Olimar is a returning fighter in Super Smash Bros. Ultimate. As the leader of Pikmin, Olimar uses the various Pikmin to perform different attacks, each with unique properties. His moveset requires strategic use of Pikmin to control the battlefield. Olimar's Final Smash, End of Day, has him flying off the stage in his ship while Bulborbs attack opponents, finishing with a crash landing.",
@@ -1001,7 +1022,8 @@
     "fighterNumber": "41",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/lucario.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucario/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/lucario/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/lucario.png"
     },
     "dlcCharacter": false,
     "description": "Lucario is a returning fighter in Super Smash Bros. Ultimate. Known for his aura-based attacks, Lucario becomes stronger as he takes more damage. His moveset includes Aura Sphere, Force Palm, and Extreme Speed, focusing on adaptability and power scaling. Lucario's Final Smash, Aura Storm, unleashes a massive beam of aura energy.",
@@ -1019,7 +1041,8 @@
     "fighterNumber": "42",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/rob.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/rob/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/rob/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/rob.png"
     },
     "dlcCharacter": false,
     "description": "R.o.b. is a returning fighter in Super Smash Bros. Ultimate. The robot uses a variety of mechanical attacks, including laser beams and gyro projectiles. R.O.B.'s moveset focuses on zoning and ranged attacks. His Final Smash, Guided Robo Beam, fires a powerful, controllable laser beam that sweeps across the stage.",
@@ -1037,7 +1060,8 @@
     "fighterNumber": "43",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/toon_link.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/toon_link/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/toon_link/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/toon_link.png"
     },
     "dlcCharacter": false,
     "description": "Toon Link is a returning fighter in Super Smash Bros. Ultimate. He combines the agility of Young Link with a unique visual style inspired by The Legend of Zelda: The Wind Waker. Toon Link's moveset includes bombs, arrows, and the boomerang, providing versatile options for combat. His Final Smash, Triforce Slash, delivers a powerful series of sword strikes.",
@@ -1055,7 +1079,8 @@
     "fighterNumber": "44",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wolf.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wolf/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wolf/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/wolf.png"
     },
     "dlcCharacter": false,
     "description": "Wolf is a returning fighter in Super Smash Bros. Ultimate. Known for his aggressive and powerful attacks, Wolf uses a combination of melee strikes and blaster shots. His moveset includes the Reflector and Wolf Flash, focusing on strength and speed. Wolf's Final Smash, Team Star Wolf, calls upon his team for a coordinated aerial assault.",
@@ -1072,7 +1097,8 @@
     "fighterNumber": "45",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/villager.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/villager/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/villager/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/villager.png"
     },
     "dlcCharacter": false,
     "description": "Villager is a returning fighter in Super Smash Bros. Ultimate. Known for his quirky and unpredictable moveset, Villager uses various items from Animal Crossing, such as the Lloid Rocket and Timber. Villager's playstyle focuses on versatility and creativity. His Final Smash, Dream Home, traps opponents in a house that gets rapidly constructed and then explodes.",
@@ -1089,7 +1115,8 @@
     "fighterNumber": "46",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mega_man.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mega_man/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mega_man/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/mega_man.png"
     },
     "dlcCharacter": false,
     "description": "Mega Man is a returning fighter in Super Smash Bros. Ultimate. Known for his wide array of special weapons, Mega Man uses attacks inspired by various Robot Masters, such as Metal Blade, Crash Bomber, and Leaf Shield. His versatile moveset allows for strategic play. Mega Man's Final Smash, Mega Legends, summons multiple Mega Men from different series to deliver a powerful combined attack.",
@@ -1106,7 +1133,8 @@
     "fighterNumber": "47",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/wii_fit_trainer.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wii_fit_trainer/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/wii_fit_trainer/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/wii_fit_trainer.png"
     },
     "dlcCharacter": false,
     "description": "Wii Fit Trainer is a returning fighter in Super Smash Bros. Ultimate. Utilizing various fitness moves, the Wii Fit Trainer combines physical exercises with energy-based attacks. Her moveset includes Sun Salutation and Deep Breathing, focusing on balance and health. Her Final Smash, Wii Fit, unleashes a series of powerful fitness poses that deal damage to opponents.",
@@ -1123,7 +1151,8 @@
     "fighterNumber": "48",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/rosalina_and_luma.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/rosalina_and_luma/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/rosalina_and_luma/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/rosalina_and_luma.png"
     },
     "dlcCharacter": false,
     "description": "Rosalina & Luma are a unique duo fighter in Super Smash Bros. Ultimate. Rosalina wields her wand to control magical attacks and summon Luma, who assists in both offense and defense. Their moveset includes combining Rosalina's powerful magic with Luma's support abilities. Their Final Smash, Power of the Cosmos, summons a massive star to deal massive damage to opponents.",
@@ -1140,7 +1169,8 @@
     "fighterNumber": "49",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/little_mac.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/little_mac/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/little_mac/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/little_mac.png"
     },
     "dlcCharacter": false,
     "description": "Little Mac is a returning fighter in Super Smash Bros. Ultimate known for his powerful ground-based attacks and impressive speed. His moveset emphasizes boxing techniques, including strong punches and quick dodges. Little Mac's Final Smash, Giga Mac, transforms him into a giant version of himself for a devastating punch.",
@@ -1157,7 +1187,8 @@
     "fighterNumber": "50",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/greninja.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/greninja/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/greninja/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/greninja.png"
     },
     "dlcCharacter": false,
     "description": "Greninja is a returning fighter in Super Smash Bros. Ultimate. Known for its swift and ninja-like abilities, Greninja uses a mix of water-based attacks and quick movements. Its moveset includes moves like Water Shuriken and Shadow Sneak. Greninja's Final Smash, Secret Ninja Attack, summons a giant wave of water to crash down on opponents.",
@@ -1174,7 +1205,8 @@
     "fighterNumber": "51-53",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/mii_fighter.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mii_fighter/ss_movie1_en.jpg"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/mii_fighter/ss_movie1_en.jpg",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/mii_fighter.png"
     },
     "dlcCharacter": false,
     "description": "Mii Fighter is a customizable fighter in Super Smash Bros. Ultimate. Players can create and modify their Mii characters with various costumes and move sets. The Mii Fighter has three types: Brawler, Swordfighter, and Gunner, each with unique moves and playstyles. The Final Smash varies based on the Mii type and custom moves chosen.",
@@ -1191,7 +1223,8 @@
     "fighterNumber": "54",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/palutena.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/palutena/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/palutena/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/palutena.png"
     },
     "dlcCharacter": false,
     "description": "Palutena is a returning fighter in Super Smash Bros. Ultimate. She uses a combination of divine magic and aerial attacks to battle her foes. Her moveset includes abilities like her Reflect Barrier and Warp Portal. Palutena's Final Smash, Divine Retribution, calls upon the gods to strike her opponents with a powerful beam of light.",
@@ -1208,7 +1241,8 @@
     "fighterNumber": "55",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pac_man.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pac_man/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pac_man/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/pac_man.png"
     },
     "dlcCharacter": false,
     "description": "Pac-man is a returning fighter in Super Smash Bros. Ultimate, bringing his classic arcade style to the game. His moveset includes iconic attacks like Pac-Dots, Ghost Traps, and his signature move, Pac-Man's Final Smash, Pac-Jump, which sees him transform into a giant version of himself and attack opponents with a series of powerful moves.",
@@ -1225,7 +1259,8 @@
     "fighterNumber": "56",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/robin.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/robin/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/robin/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/robin.png"
     },
     "dlcCharacter": false,
     "description": "Robin from Fire Emblem: Awakening joins Super Smash Bros. Ultimate with a moveset focused on magic and swordplay. Robin uses a mix of tome-based spells and sword attacks, with the ability to cast various spells from Fire Emblem. Robin's Final Smash, Thoron, unleashes a powerful thunderstorm to strike down enemies.",
@@ -1242,7 +1277,8 @@
     "fighterNumber": "57",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/shulk.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/shulk/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/shulk/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/shulk.png"
     },
     "dlcCharacter": false,
     "description": "Shulk from Xenoblade Chronicles is a returning fighter in Super Smash Bros. Ultimate. His moveset revolves around his Monado sword, which grants him various abilities and buffs. Shulk can activate Monado Arts to enhance his speed, strength, or defense. His Final Smash, Monado Buster, delivers a massive sword attack that deals heavy damage to opponents.",
@@ -1259,7 +1295,8 @@
     "fighterNumber": "58",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bowser_jr.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bowser_jr/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bowser_jr/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/bowser_jr.png"
     },
     "dlcCharacter": false,
     "description": "Bowser Jr. is a returning fighter in Super Smash Bros. Ultimate, piloting his Koopa Clown Car in battle. His moveset includes using paint-based attacks, the Clown Car's various abilities, and a variety of projectiles. Bowser Jr.'s Final Smash, Dreamy Bowser, summons a giant version of Bowser to cause destruction on the stage.",
@@ -1276,7 +1313,8 @@
     "fighterNumber": "59",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/duck_hunt.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/duck_hunt/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/duck_hunt/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/duck_hunt.png"
     },
     "dlcCharacter": false,
     "description": "Duck Hunt Duo is a returning fighter in Super Smash Bros. Ultimate. The duo consists of a dog and a duck working together to deliver a mix of ranged and trap-based attacks. Their moveset includes using the duck's flying abilities and the dog's shooting skills. Their Final Smash, Duck Hunt, involves summoning a flurry of ducks to attack opponents.",
@@ -1293,7 +1331,8 @@
     "fighterNumber": "60",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ryu.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ryu/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ryu/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/ryu.png"
     },
     "dlcCharacter": false,
     "description": "Ryu from the Street Fighter series brings his classic fighting game style to Super Smash Bros. Ultimate. His moveset includes powerful martial arts attacks and special moves like Hadouken and Shoryuken. Ryu's Final Smash, Shinku Hadouken, unleashes a massive energy blast to deal significant damage to his enemies.",
@@ -1310,7 +1349,8 @@
     "fighterNumber": "60ᵋ",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ken.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ken/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ken/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/ken.png"
     },
     "dlcCharacter": false,
     "description": "Ken from the Street Fighter series joins Super Smash Bros. Ultimate with a moveset similar to Ryu but with his own unique flair. His moveset features fast and flashy martial arts attacks, including his signature moves like Shoryuken and Hadouken. Ken's Final Smash, Shoryureppa, combines his rapid-fire attacks into a devastating finishing move."
@@ -1324,7 +1364,8 @@
     "fighterNumber": "61",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/cloud.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/cloud/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/cloud/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/cloud.png"
     },
     "dlcCharacter": false,
     "description": "Cloud Strife from Final Fantasy VII is a returning fighter in Super Smash Bros. Ultimate. He wields the massive Buster Sword and uses a variety of powerful sword attacks and magic spells. Cloud's Final Smash, Omnislash, showcases his iconic series of sword strikes for a dramatic and high-damage finish.",
@@ -1341,7 +1382,8 @@
     "fighterNumber": "62",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/corrin.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/corrin/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/corrin/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/corrin.png"
     },
     "dlcCharacter": false,
     "description": "Corrin from Fire Emblem: Fates joins Super Smash Bros. Ultimate with a moveset focused on dragon-based attacks and swordplay. Corrin can transform into a dragon and use a variety of powerful moves. Their Final Smash, Torrential Roar, involves summoning a dragon to unleash a devastating attack on opponents.",
@@ -1358,7 +1400,8 @@
     "fighterNumber": "63",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bayonetta.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bayonetta/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bayonetta/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/bayonetta.png"
     },
     "dlcCharacter": false,
     "description": "Bayonetta is a returning fighter in Super Smash Bros. Ultimate with a moveset centered around her stylish and powerful witchcraft abilities. Her attacks include using guns, summons, and her signature Witch Time ability to slow down opponents. Bayonetta's Final Smash, Infernal Climax, calls upon a giant demon to finish off her enemies.",
@@ -1375,7 +1418,8 @@
     "fighterNumber": "64",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/inkling.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/inkling/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/inkling/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/inkling.png"
     },
     "dlcCharacter": false,
     "description": "Inkling from ARMS joins Super Smash Bros. Ultimate with a moveset focused on ink-based attacks. Inkling uses various weapons like the Splattershot and Roller to cover opponents in ink, which affects their damage and movement. Inkling's Final Smash, Killer Wail, uses a powerful ink-based weapon to blast opponents off the stage."
@@ -1389,7 +1433,8 @@
     "fighterNumber": "65",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ridley.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ridley/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ridley/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/ridley.png"
     },
     "dlcCharacter": false,
     "description": "Ridley from the Metroid series is a returning fighter in Super Smash Bros. Ultimate. Known for his imposing size and powerful attacks, Ridley uses a combination of fire breath, sharp claws, and aerial assaults. His Final Smash, Ridley's Wrath, unleashes a devastating attack from his space pirate ship, the Pirate Ship."
@@ -1403,7 +1448,8 @@
     "fighterNumber": "66",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/simon.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/simon/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/simon/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/simon.png"
     },
     "dlcCharacter": false,
     "description": "Simon Belmont from Castlevania joins Super Smash Bros. Ultimate with his signature vampire-hunting equipment. His moveset includes using his whip and various holy relics, such as crosses and axes. Simon's Final Smash, Grand Cross, summons a powerful cross-shaped attack to damage his foes."
@@ -1417,7 +1463,8 @@
     "fighterNumber": "66ᵋ",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/richter.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/richter/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/richter/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/richter.png"
     },
     "dlcCharacter": false,
     "description": "Richter Belmont from Castlevania is a returning fighter in Super Smash Bros. Ultimate, serving as an echo fighter of Simon Belmont. Richter shares many of Simon's moves but with his own unique animations and effects. His Final Smash, Holy Cross, features a powerful cross attack to vanquish his opponents."
@@ -1431,7 +1478,8 @@
     "fighterNumber": "67",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/king_k_rool.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/king_k_rool/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/king_k_rool/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/king_k_rool.png"
     },
     "dlcCharacter": false,
     "description": "King K. Rool from the Donkey Kong series is a returning fighter in Super Smash Bros. Ultimate. His moveset includes a range of heavy-hitting attacks, with abilities like his crown throw and belly bounce. King K. Rool's Final Smash, K. Rool’s Klaw, involves using his massive belly to cause a huge explosion on the stage."
@@ -1445,7 +1493,8 @@
     "fighterNumber": "68",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/shizue.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/isabelle/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/isabelle/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/shizue.png"
     },
     "dlcCharacter": false,
     "description": "Isabelle from Animal Crossing joins Super Smash Bros. Ultimate with a moveset that features a mix of her adorable tools and tricks. She uses a combination of her fishing rod, net, and various gadgets from the Animal Crossing series. Isabelle's Final Smash, Happy Home Showcase, summons a group of villagers to assist in a powerful finishing move."
@@ -1459,7 +1508,8 @@
     "fighterNumber": "69",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/gaogaen.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/incineroar/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/incineroar/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/gaogaen.png"
     },
     "dlcCharacter": false,
     "description": "Incineroar from Pokémon joins Super Smash Bros. Ultimate with a moveset focused on wrestling and fiery attacks. He uses powerful moves like Darkest Lariat and Cross Chop, along with his signature move, Alolan Whip. Incineroar's Final Smash, Max Malicious Moonsault, showcases his wrestling prowess with a dramatic aerial attack."
