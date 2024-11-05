@@ -52,7 +52,7 @@ Currently GET requests are permitted to get ALL of the fighters and get fighters
 | Request Type | Endpoint | Description |
 |---------------| --------------- | --------------- |
 | GET | /api/characters | GET all fighters |
-| GET | /api/characters/[id] | GET specific fighter by their id(fighterNumber)
+| GET | /api/characters/[id] | GET specific fighter by their id(fighterNumber) |
 | GET | /api/characters/series/[seriesName] | GET specific series by their id |
 | GET | /api/characters/name/[name] | GET specific fighter by name |
 
