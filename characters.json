@@ -233,7 +233,8 @@
     "fighterNumber": "03",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/link.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/link/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/link/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/link.png"
     },
     "dlcCharacter": false,
     "description": "Link is a returning fighter in Super Smash Bros. Ultimate. This time, he sports his look from The Legend of Zelda: Breath of the Wild and incorporates new abilities from the game. His bombs are now remote-detonated, and he wields the Ancient Bow and Arrow as his Final Smash. Link's varied arsenal of weapons and tools makes him a strategic and flexible fighter.",
@@ -253,7 +254,8 @@
     "fighterNumber": "04",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/samus.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/samus/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/samus/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/samus.png"
     },
     "dlcCharacter": false,
     "description": "Samus is a returning fighter in Super Smash Bros. Ultimate. Her moveset remains largely unchanged, retaining her powerful Charge Shot and versatile missile attacks. Her Final Smash has been updated to the powerful Zero Laser, which now has a more streamlined and cinematic effect.",
@@ -273,7 +275,8 @@
     "fighterNumber": "04ᵋ",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dark_samus.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dark_samus/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dark_samus/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/dark_samus.png"
     },
     "dlcCharacter": false,
     "description": "Dark Samus is a returning fighter in Super Smash Bros. Ultimate. As an echo fighter of Samus, Dark Samus shares many of the same moves but features unique animations and effects. Her eerie, phantasmal presence and slightly altered abilities provide a fresh take on the Samus playstyle."
@@ -287,7 +290,8 @@
     "fighterNumber": "05",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/yoshi.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/yoshi/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/yoshi/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/yoshi.png"
     },
     "dlcCharacter": false,
     "description": "Yoshi is a returning fighter in Super Smash Bros. Ultimate. Known for his flutter jump and egg-throwing abilities, Yoshi brings a mix of agility and strength to the battlefield. His Final Smash, Stampede!, unleashes a herd of Yoshis to trample his opponents.",
@@ -307,7 +311,8 @@
     "fighterNumber": "06",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/kirby.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/kirby/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/kirby/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/kirby.png"
     },
     "dlcCharacter": false,
     "description": "Kirby is a returning fighter in Super Smash Bros. Ultimate. His moveset includes his signature ability to inhale opponents and copy their abilities. Kirby's lightweight and high-flying maneuvers, combined with his diverse set of copied moves, make him an unpredictable and adaptable fighter.",
@@ -327,7 +332,8 @@
     "fighterNumber": "07",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/fox.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/fox/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/fox/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/fox.png"
     },
     "dlcCharacter": false,
     "description": "Fox is a returning fighter in Super Smash Bros. Ultimate. His moveset continues to focus on speed and agility, with quick attacks and rapid-fire blasters. Fox's new Final Smash features his Arwing in a cinematic onslaught against his opponents, emphasizing his role as a fast and fierce combatant.",
@@ -347,7 +353,8 @@
     "fighterNumber": "08",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pikachu.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pikachu/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pikachu/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/pikachu.png"
     },
     "dlcCharacter": false,
     "description": "Pikachu is a returning fighter in Super Smash Bros. Ultimate. His moveset includes his signature electric attacks like Thunder Jolt and Thunder. Pikachu remains a nimble and quick fighter with improved animation and visual effects, making him as electrifying as ever.",
@@ -367,7 +374,8 @@
     "fighterNumber": "09",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/luigi.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/luigi/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/luigi/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/luigi.png"
     },
     "dlcCharacter": false,
     "description": "Luigi is a returning fighter in Super Smash Bros. Ultimate. His moveset remains quirky and unpredictable, featuring moves like the Green Missile and the Poltergust vacuum. Luigi's Final Smash, Poltergust G-00, captures opponents and launches them with ghostly power.",
@@ -387,7 +395,8 @@
     "fighterNumber": "10",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ness.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ness/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ness/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/ness.png"
     },
     "dlcCharacter": false,
     "description": "Ness is a returning fighter in Super Smash Bros. Ultimate. His moveset revolves around his PSI abilities, such as PK Fire, PK Thunder, and PK Flash. Ness's Final Smash, PK Starstorm, rains down powerful stars to deal massive damage to his opponents.",
@@ -407,7 +416,8 @@
     "fighterNumber": "11",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/captain_falcon.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/captain_falcon/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/captain_falcon/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/captain_falcon.png"
     },
     "dlcCharacter": false,
     "description": "Captain Falcon is a returning fighter in Super Smash Bros. Ultimate. Known for his high speed and powerful moves like the Falcon Punch and Raptor Boost, he remains a formidable and flashy fighter. Captain Falcon's Final Smash, Blue Falcon, has him summoning his racing machine to strike opponents at high speed.",
@@ -427,7 +437,8 @@
     "fighterNumber": "12",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/jigglypuff.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/jigglypuff/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/jigglypuff/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/jigglypuff.png"
     },
     "dlcCharacter": false,
     "description": "Jigglypuff is a returning fighter in Super Smash Bros. Ultimate. Her moveset includes a mix of aerial attacks and sing-induced sleep moves. Jigglypuff's lightweight and floaty nature make her a tricky opponent, and her Rest move can deliver powerful knockouts. Her Final Smash, Puff Up, inflates her to a massive size, launching opponents off the stage.",
@@ -447,7 +458,8 @@
     "fighterNumber": "13",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/peach.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/peach/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/peach/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/peach.png"
     },
     "dlcCharacter": false,
     "description": "Peach is a returning fighter in Super Smash Bros. Ultimate. She combines elegance and power with her moveset, which includes using her parasol, vegetables, and Peach Bomber. Peach's Final Smash, Peach Blossom, puts opponents to sleep and generates healing peaches on the stage.",
@@ -466,7 +478,8 @@
     "fighterNumber": "13ᵋ",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/daisy.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/daisy/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/daisy/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/daisy.png"
     },
     "dlcCharacter": false,
     "description": "Daisy is a returning fighter in Super Smash Bros. Ultimate. As an echo fighter of Peach, Daisy shares many of the same moves but features her own unique animations and effects. Daisy's moveset includes using her parasol, vegetables, and Daisy Bomber. Her Final Smash, Daisy Blossom, also puts opponents to sleep and generates healing daisies on the stage."
@@ -480,7 +493,8 @@
     "fighterNumber": "14",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/bowser.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bowser/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/bowser/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/bowser.png"
     },
     "dlcCharacter": false,
     "description": "Bowser is a returning fighter in Super Smash Bros. Ultimate. His moveset remains focused on raw power and heavy-hitting attacks. Bowser's tough defense and devastating blows make him a formidable opponent, with his updated Final Smash, Giga Bowser Punch, delivering a crushing finish to his foes.",
@@ -499,7 +513,8 @@
     "fighterNumber": "15",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/ice_climbers.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ice_climbers/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/ice_climbers/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/ice_climbers.png"
     },
     "dlcCharacter": false,
     "description": "Ice Climbers are returning fighters in Super Smash Bros. Ultimate. The duo of Popo and Nana work together to deliver coordinated attacks with their hammers and ice abilities. Their unique ability to combine their efforts makes them a versatile and unpredictable team. The Ice Climbers' Final Smash, Iceberg, summons a giant iceberg that fills the stage, dealing damage to opponents.",
@@ -517,7 +532,8 @@
     "fighterNumber": "16",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/sheik.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sheik/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/sheik/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/sheik.png"
     },
     "dlcCharacter": false,
     "description": "Sheik is a returning fighter in Super Smash Bros. Ultimate. Known for her incredible speed and agility, Sheik uses a combination of swift strikes and needle attacks to keep opponents on their toes. Her moveset includes the Burst Grenade and Bouncing Fish, providing versatile options for both offense and defense.",
@@ -536,7 +552,8 @@
     "fighterNumber": "17",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/zelda.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/zelda/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/zelda/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/zelda.png"
     },
     "dlcCharacter": false,
     "description": "Zelda is a returning fighter in Super Smash Bros. Ultimate. She has been updated with a new design based on her appearance in The Legend of Zelda: A Link Between Worlds. Her moveset includes powerful magic attacks such as Din's Fire and Phantom Slash. Zelda's Final Smash, Triforce of Wisdom, traps opponents in a burst of light.",
@@ -555,7 +572,8 @@
     "fighterNumber": "18",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/dr_mario.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dr_mario/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/dr_mario/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/dr_mario.png"
     },
     "dlcCharacter": false,
     "description": "Dr. Mario is a returning fighter in Super Smash Bros. Ultimate. He shares many similarities with Mario but features unique properties in his attacks, such as throwing Megavitamins instead of fireballs. Dr. Mario's moveset includes the Super Sheet and Dr. Tornado, and his Final Smash, Doctor Finale, unleashes a powerful wave of capsules.",
@@ -573,7 +591,8 @@
     "fighterNumber": "19",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/pichu.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pichu/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/pichu/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/pichu.png"
     },
     "dlcCharacter": false,
     "description": "Pichu is a returning fighter in Super Smash Bros. Ultimate. Known for its high-risk, high-reward playstyle, Pichu's electric attacks deal significant damage to both opponents and itself. Despite its lightweight and fragile nature, Pichu's speed and agility make it a formidable fighter. Its Final Smash, Volt Tackle, delivers a fast and powerful electric strike.",
@@ -590,7 +609,8 @@
     "fighterNumber": "20",
     "images": {
       "bannerImage": "https://www.smashbros.com/assets_v2/img/fighter/thumb_h/falco.png",
-      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/falco/main.png"
+      "fullImage": "https://www.smashbros.com/assets_v2/img/fighter/falco/main.png",
+      "iconImage": "https://www.smashbros.com/assets_v2/img/fighter/pict/falco.png"
     },
     "dlcCharacter": false,
     "description": "Falco is a returning fighter in Super Smash Bros. Ultimate. He retains his quick and acrobatic fighting style, with moves like the Blaster and Reflector. Falco's aerial prowess and unique attack angles make him a challenging opponent. His Final Smash, Team Star Fox, calls upon his team for a coordinated aerial strike.",
